@@ -1,9 +1,12 @@
 title: Lucino Garcia # your name (or website title) here
 logo: "/images/headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist 
+  Data Scientist <br>
+  Biomedical Engineer
   <br><br>
-  Second description 
+  "I am a dedicated Data Scientist with a background in the US Army, where I cultivated discipline and a strong work ethic. 
+  I specialize in utilizing machine learning techniques to extract meaningful narratives from data and construct predictive models for future trends. 
+  My keen interest lies in applying these skills to the medical field, aiming to contribute to the enhancement of human health and well-being."
   <br><br>
   <a href="https://www.linkedin.com/in/lucino-garcia/">My LinkedIn Profile</a> <br>
   <a href="https://github.com/LucinoGarcia">My GitHub Profile</a> <br>
