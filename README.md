@@ -1,8 +1,18 @@
-# Project 1: EEG Gesture Classification
+# EEG Gesture Classification
 ### BME Capstone EDA
 
 
-# Project 2: Disease Detection with Computer Vision
+# Disease Detection with Computer Vision
 
 
-# Project 3: Bitcoin Price Regression
+# Bitcoin Price Regression Prediction
+
+
+# Clustering and Segmentation for Banking Customers
+
+
+
+
+# In-Progress
+### SQL project
+### Tableau dashboard
