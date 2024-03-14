@@ -1,5 +1,9 @@
-# EEG Gesture Classification
-### BME Capstone EDA
+# Brain-Controlled Prosthetic Classification
+- Created a convolutional neural network (CNN) to classify EEG signals for controlling a UR5e robot arm, serving as a brain-controlled prosthetic for patients.
+- Collected 1000 EEG samples for each of the four predetermined gestures and a negative classification using an OpenBCI Electrode Cap. Manually verified and filtered EEGs using a Buttersworth filter to ensure data quality.
+- Initially explored Decision Trees and various machine learning techniques, resulting in accuracies close to random guessing (~20%). Opted for a CNN due to its effectiveness with spatial data.
+- Chose accuracy as the performance metric due to balanced classes and safety considerations for the robot arm. Achieved a model accuracy of 73% with the CNN.
+- Despite the promising accuracy, the project was complex and prone to errors, particularly during data collection. The CNN's numerous tunable parameters and signal processing steps required meticulous parameter tuning for optimization.
 
 
 # Disease Detection with Computer Vision
