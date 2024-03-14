@@ -6,6 +6,7 @@
 - Despite the promising accuracy, the project was complex and prone to errors, particularly during data collection. The CNN's numerous tunable parameters and signal processing steps required meticulous, isolated parameter tuning for optimization.
 
 ![Image](/images/headshot.jpeg)
+
 [This Project’s GitHub Repository](https://github.com/LucinoGarcia/Robot-Arm-Classification)
 
 # Disease Detection with Computer Vision
