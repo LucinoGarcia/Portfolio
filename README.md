@@ -5,11 +5,8 @@
 - Chose accuracy as the performance metric due to balanced classes and safety considerations for the robot arm. Achieved a model accuracy of 73% with the CNN.
 - Despite the promising accuracy, the project was complex and prone to errors, particularly during data collection. The CNN's numerous tunable parameters and signal processing steps required meticulous, isolated parameter tuning for optimization.
 
-<center>
-  
-![Image](/images/headshot.jpeg)
 
-</center>
+![Image](/images/headshot.jpeg)
 
 [This Project’s GitHub Repository](https://github.com/LucinoGarcia/Robot-Arm-Classification)
 
