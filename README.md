@@ -6,7 +6,9 @@
 - Despite the promising accuracy, the project was complex and prone to errors, particularly during data collection. The CNN's numerous tunable parameters and signal processing steps required meticulous, isolated parameter tuning for optimization.
 
 <center>
+  
 ![Image](/images/headshot.jpeg)
+
 </center>
 
 [This Project’s GitHub Repository](https://github.com/LucinoGarcia/Robot-Arm-Classification)
