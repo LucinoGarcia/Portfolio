@@ -5,10 +5,15 @@
 - Chose accuracy as the performance metric due to balanced classes and safety considerations for the robot arm. Achieved a model accuracy of 82% with the CNN.
 - Despite the promising accuracy, the project was complex and prone to errors, particularly during data collection. The CNN's numerous tunable parameters and signal processing steps required meticulous, isolated parameter tuning for optimization.
 
+<div style="text-align:center;">
 
 ![Image](/images/BME_CM.png)
 
+</div>
+
 [This Project’s GitHub Repository](https://github.com/LucinoGarcia/Robot-Arm-Classification)
+
+
 
 # Disease Detection with Computer Vision
 
