@@ -7,7 +7,7 @@
 
 <div style="text-align:center;">
 
-![Image](/images/BME_CM.png)
+![image](/images/BME_CM.png)
 
 </div>
 
