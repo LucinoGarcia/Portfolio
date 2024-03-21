@@ -23,7 +23,7 @@
 <br><br><br>
 
 # Bitcoin Price Regression Prediction
-
+In-Progress
 
 
 
@@ -31,10 +31,12 @@
 
 
 # Clustering and Segmentation for Banking Customers
+In-Progress
 
 
 
+<!-- Excel, Dashboard, Transportation -->
+<!-- Excel, Dashboard, Coffee -->
+<!-- Tableau, Dashboard, Coursera -->
+<!-- SQL, YouTube -->
 
-# In-Progress
-### SQL project
-### Tableau dashboard
