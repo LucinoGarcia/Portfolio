@@ -20,11 +20,14 @@
 ![image](/images/3_View.png)
 
 [GitHub Repository for Disease Detection with Computer Vision](https://github.com/LucinoGarcia/MRI-Brain-Tumor-Detection)
-
-
-
+<br><br><br>
 
 # Bitcoin Price Regression Prediction
+
+
+
+
+
 
 
 # Clustering and Segmentation for Banking Customers
