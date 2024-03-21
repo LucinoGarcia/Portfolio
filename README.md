@@ -8,8 +8,7 @@
 ![Image](/images/BME_CM.png)
 
 [GitHub Repository for Brain-Controlled Prosthetic Gesture Classification](https://github.com/LucinoGarcia/Robot-Arm-Classification)
-
-
+<br><br><br>
 
 # Disease Detection with Computer Vision
 - Developed a 3D U-Net model for classifying tumors in DICOM format MRI data.
