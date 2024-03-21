@@ -7,7 +7,7 @@
 
 ![Image](/images/BME_CM.png)
 
-[Brain-Controlled Prosthetic Gesture Classification’s GitHub Repository](https://github.com/LucinoGarcia/Robot-Arm-Classification)
+[GitHub Repository for Brain-Controlled Prosthetic Gesture Classification](https://github.com/LucinoGarcia/Robot-Arm-Classification)
 
 
 
@@ -20,7 +20,7 @@
 
 ![image](/images/3_View.png)
 
-[Disease Detection with Computer Vision’s GitHub Repository](https://github.com/LucinoGarcia/MRI-Brain-Tumor-Detection)
+[GitHub Repository for Disease Detection with Computer Vision](https://github.com/LucinoGarcia/MRI-Brain-Tumor-Detection)
 
 
 
