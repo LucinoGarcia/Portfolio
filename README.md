@@ -9,9 +9,10 @@
 </div>
 
 
-[![Alt text](/images/icon-linkedin.png) width=20](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
+[![Alt text](<src="/images/icon-linkedin.png" width="178px">)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
 
-
+<!-- [![Alt text](image_url) width=XX](link_url) -->
+<!-- <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="178px"> -->
 
 ## Brain-Controlled Prosthetic Gesture Classification
 - Created a convolutional neural network to classify EEG signals to control a UR5e robot arm, serving as a brain-controlled prosthetic.
