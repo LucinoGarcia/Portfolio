@@ -9,15 +9,7 @@
 </div>
 
 
-[![Linked-In Icon](<src="/images/icon-linkedin.png" width="50px">)](https://www.linkedin.com/in/lucino-garcia/) 
-
-
-<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="15px" /> <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="20px" /> <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="35px" /> <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="50px" /> <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-
-
+[![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) 
 
 
 <!-- [![Alt text](image_url) width=XX](link_url) -->
