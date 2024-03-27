@@ -1,0 +1,7 @@
+- center the social links
+- hyperlinked icons next to social links
+- brief project desciptions
+  - small project photos
+  - link to project
+- project html link to repository 
+- attempt job titles on blue ribbon
