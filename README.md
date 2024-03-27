@@ -11,6 +11,10 @@
 
 [![Linked-In Icon](<src="/images/icon-linkedin.png" width="50px">)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
 
+
+
+
+<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="50px" />
 <!-- [![Alt text](image_url) width=XX](link_url) -->
 <!-- <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="178px"> -->
 
