@@ -7,18 +7,6 @@
   <a href="https://github.com/LucinoGarcia">GitHub.com/LucinoGarcia</a> <br>
   <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
 </div>
- 
-
-[![Linked-In Icon](/images/icon-linkedin-20.png)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-[![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-
-
-
-<!-- [![Alt text](image_url) width=XX](link_url) -->
-<!-- <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="178px"> -->
-
-
-
 
 
 
