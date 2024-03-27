@@ -35,7 +35,8 @@
 
 ![image](/images/3_View.png)
 
-[GitHub Repository for Disease Detection with Computer Vision](https://github.com/LucinoGarcia/MRI-Brain-Tumor-Detection)
+[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.md).
+
 <br><br><br>
 
 # Bitcoin Price Regression Prediction
