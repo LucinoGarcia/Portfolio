@@ -35,7 +35,7 @@
 
 ![image](/images/3_View.png)
 
-[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.md).
+[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.html).
 
 <br><br><br>
 
