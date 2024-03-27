@@ -12,6 +12,10 @@
 [![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) 
 
 
+![Alt width](/images/icon-linkedin.png) width=20
+
+
+
 <!-- [![Alt text](image_url) width=XX](link_url) -->
 <!-- <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="178px"> -->
 
