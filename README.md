@@ -14,7 +14,7 @@
 
 
 
-<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="50px" />
+<img src="/images/icon-linkedin.png" alt="Linked-In Icon" width="20px" />
 <!-- [![Alt text](image_url) width=XX](link_url) -->
 <!-- <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="178px"> -->
 
