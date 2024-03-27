@@ -9,10 +9,10 @@
 </div>
 
 
-[![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) 
+[![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
 
 
-[<img src="/images/icon-linkedin.png" alt="Linked-In Icon" style="width:20px;"/>](https://www.linkedin.com/in/lucino-garcia/)
+[<img src="/images/icon-linkedin.png" alt="Linked-In Icon" style="width:20px;"/>](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
 
 
 
