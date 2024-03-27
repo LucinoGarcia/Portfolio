@@ -9,7 +9,7 @@
 </div>
 
 
-
+[![Alt text](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/)
 
 
 
