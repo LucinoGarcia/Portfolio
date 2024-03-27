@@ -1,15 +1,10 @@
 title: Lucino Garcia # your name (or website title) here
 logo: "/images/headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b>Data Scientist</b> <br>
+  <br> <b>Data Scientist</b> <br>
   <b>Biomedical Engineer</b>
   <br><br>
-  "I am a Data Scientist and US Army veteran. I utilize machine learning techniques to extract meaningful narratives from data and construct predictive models – 
-  especially in open-source medical contexts."
-  <br><br>
-  <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
-  <a href="https://github.com/LucinoGarcia">GitHub.com/LucinoGarcia</a> <br>
-  <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
+  
   
   
 remote_theme: pages-themes/merlot@v0.2.0
