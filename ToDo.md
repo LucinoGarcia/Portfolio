@@ -1,4 +1,3 @@
-- center the social links
 - hyperlinked icons next to social links
 - brief project desciptions
   - small project photos
