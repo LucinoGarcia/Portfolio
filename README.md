@@ -12,7 +12,7 @@
 [![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) 
 
 
-![Alt width](/images/icon-linkedin.png) width=20
+![Alt width](/images/icon-linkedin.png) width=20px
 
 
 
