@@ -1,4 +1,17 @@
-# Brain-Controlled Prosthetic Gesture Classification
+# Lucino's Data Science Portfolio
+
+"I am a Data Scientist and US Army veteran. I utilize machine learning techniques to extract meaningful narratives from data and construct predictive models – 
+  especially in open-source medical contexts."
+  <br><br>
+  <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
+  <a href="https://github.com/LucinoGarcia">GitHub.com/LucinoGarcia</a> <br>
+  <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
+
+
+
+
+
+## Brain-Controlled Prosthetic Gesture Classification
 - Created a convolutional neural network to classify EEG signals to control a UR5e robot arm, serving as a brain-controlled prosthetic.
 - Collected 1000 EEG samples for each of the four predetermined gestures and a negative classification using an OpenBCI Electrode Cap. Manually verified and filtered EEGs using a Buttersworth filter.
 - Initially explored Decision Trees and various machine learning techniques, resulting in accuracies close to random guessing (~20%). Opted for a CNN due to its effectiveness with spatial data.
@@ -13,7 +26,7 @@
 [Link to another page](./Brain-Controlled-Prosthetic-Gesture-Classification.html).
 
 
-# Disease Detection with Computer Vision
+## Disease Detection with Computer Vision
 - Developed a 3D U-Net model for classifying tumors in DICOM format MRI data.
 - Data was provided by the Decathlon 10 Challenge but required patching and standardization.
 - A 3D U-Net model was chosen for its architecture optimized for volumetric datasets. Soft Dice was used as the loss function, and Dice Coefficient was used as the metric.
