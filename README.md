@@ -9,6 +9,7 @@
 </div>
 
 
+[![Linked-In Icon](/images/icon-linkedin-20.png)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
 [![Linked-In Icon](/images/icon-linkedin.png)](https://www.linkedin.com/in/lucino-garcia/) <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
 
 
