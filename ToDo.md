@@ -4,3 +4,4 @@
   - link to project
 - project html link to repository 
 - attempt job titles on blue ribbon
+- ensure all links work
