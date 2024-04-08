@@ -19,9 +19,10 @@
 ![Image](/images/BME_CM.png)
 
 [GitHub Repository for Brain-Controlled Prosthetic Gesture Classification](https://github.com/LucinoGarcia/Robot-Arm-Classification)
+[See more of the "Brain-Controlled Prosthetic Gesture Classification" project](./Brain-Controlled-Prosthetic-Gesture-Classification.html)
 <br><br><br>
 
-[Link to another page](./Brain-Controlled-Prosthetic-Gesture-Classification.html).
+
 
 
 ## Disease Detection with Computer Vision
@@ -33,7 +34,7 @@
 
 ![image](/images/3_View.png)
 
-[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.html).
+[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.html)
 <br><br><br>
 
 
@@ -47,7 +48,7 @@
 
 ![Response_Histogram.png](/images/MedCostReg_Plot.png)
 
-[See more of the "Medical Insurance Cost Regression" project](./Medical_Insurance_Cost.html).
+[See more of the "Medical Insurance Cost Regression" project](./Medical_Insurance_Cost.html)
 <br><br><br>
 
 
