@@ -18,7 +18,6 @@
 
 ![Image](/images/BME_CM.png)
 
-[GitHub Repository for Brain-Controlled Prosthetic Gesture Classification](https://github.com/LucinoGarcia/Robot-Arm-Classification)
 [See more of the "Brain-Controlled Prosthetic Gesture Classification" project](./BCI-Robot-Arm.html)
 <br><br><br>
 
