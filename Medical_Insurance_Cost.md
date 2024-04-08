@@ -55,4 +55,4 @@ Below is a plot of the dataset, sorted, and the respective Random Forest predici
 
 
 [GitHub Repository for "Medical Insurance Cost Prediction" Project](https://github.com/LucinoGarcia/Medical-Insurance-Cost) <br>
-[Back to Data Science Portfolio](https://lucinogarcia.github.io/Portfolio/)
+[Back to Portfolio](https://lucinogarcia.github.io/Portfolio/)
