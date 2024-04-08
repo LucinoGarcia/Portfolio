@@ -2,7 +2,6 @@
 
 <div style="text-align: center;">
   <p>I am a Data Scientist and US Army veteran. I utilize machine learning techniques to extract meaningful narratives from data and construct predictive models – especially in open-source medical contexts.</p>
-  <br>
   <a href="https://www.linkedin.com/in/lucino-garcia/">LinkedIn.com/in/Lucino-Garcia</a> <br>
   <a href="https://github.com/LucinoGarcia">GitHub.com/LucinoGarcia</a> <br>
   <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
