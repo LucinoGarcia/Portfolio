@@ -35,20 +35,21 @@
 ![image](/images/3_View.png)
 
 [See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.html).
-
 <br><br><br>
 
-# Bitcoin Price Regression Prediction
-In-Progress
 
+## Medical Insurance Cost Prediction
 
+- The primary objective of this project was to employ regression models to predict the cost of medical insurance and gain valuable insights into its influencing factors.
+- The dataset, sourced from Kaggle, underwent minimal data cleaning and formatting procedures to ensure its suitability for analysis.
+- The selection of Linear Regression, Decision Tree, and Random Forest models was based on their adeptness in handling both categorical and continuous data types.
+- Upon evaluation, the Random Forest model emerged as the top performer, exhibiting the lowest Mean Squared Error (MSE) and the highest R-squared value among the three models.
+- Notably, smoking emerged as the most significant determinant of medical insurance cost, followed by BMI and age, according to the analysis.<br>
 
+![Response_Histogram.png](/images/MedCostReg_Plot.png)
 
-
-
-# Clustering and Segmentation for Banking Customers
-In-Progress
-
+[See more of the "Medical Insurance Cost Regression" project](./Medical_Insurance_Cost.html).
+<br><br><br>
 
 
 <!-- Excel, Dashboard, Transportation -->
