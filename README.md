@@ -10,11 +10,8 @@
 
 
 ## Brain-Controlled Prosthetic Gesture Classification
-- Created a convolutional neural network to classify EEG signals to control a UR5e robot arm, serving as a brain-controlled prosthetic.
-- Collected 1000 EEG samples for each of the four predetermined gestures and a negative classification using an OpenBCI Electrode Cap. Manually verified and filtered EEGs using a Buttersworth filter.
-- Initially explored Decision Trees and various machine learning techniques, resulting in accuracies close to random guessing (~20%). Opted for a CNN due to its effectiveness with spatial data.
-- Chose accuracy as the performance metric due to balanced classes and safety considerations for the robot arm. Achieved a model accuracy of 92% with the CNN.
-- Despite the promising accuracy, the project was complex and prone to errors, particularly during data collection. The CNN's numerous tunable parameters and signal processing steps required meticulous, isolated parameter tuning for optimization.
+- Developed a convolutional neural network (CNN) for classifying EEG signals to control a UR5e robot arm, achieving a high accuracy of 92%.
+- Collected and filtered 1000 EEG samples for four predetermined gestures and a negative classification, initially exploring Decision Trees and other techniques before opting for the CNN due to its effectiveness with spatial data. <br>
 
 ![Image](/images/BME_CM.png)
 
@@ -25,11 +22,8 @@
 
 
 ## Disease Detection with Computer Vision
-- Developed a 3D U-Net model for classifying tumors in DICOM format MRI data.
-- Data was provided by the Decathlon 10 Challenge but required patching and standardization.
-- A 3D U-Net model was chosen for its architecture optimized for volumetric datasets. Soft Dice was used as the loss function, and Dice Coefficient was used as the metric.
-- Utilized both sensitivity and specificity as measures of model evaluation. Sensitivity and specificity varied by samples but typically exceeded 85% sensitivity and 90% specificity.
-- A 3D U-Net model can definitely be utilized for cancerous tissue classification—even with samples in the hundreds. It should generalize nicely after being trained on additional datasets.
+- Developed a 3D U-Net model for tumor classification in DICOM format MRI data, utilizing Soft Dice as the loss function and Dice Coefficient as the metric.
+- Utilized sensitivity and specificity measures for model evaluation, typically achieving over 85% sensitivity and 90% specificity, showcasing the model's potential for cancerous tissue classification and its ability to generalize well with additional datasets. <br>
 
 ![image](/images/3_View.png)
 
@@ -39,11 +33,8 @@
 
 ## Medical Insurance Cost Prediction
 
-- The primary objective of this project was to employ regression models to predict the cost of medical insurance and gain valuable insights into its influencing factors.
-- The dataset, sourced from Kaggle, underwent minimal data cleaning and formatting procedures to ensure its suitability for analysis.
-- The selection of Linear Regression, Decision Tree, and Random Forest models was based on their adeptness in handling both categorical and continuous data types.
-- Upon evaluation, the Random Forest model emerged as the top performer, exhibiting the lowest Mean Squared Error (MSE) and the highest R-squared value among the three models.
-- Notably, smoking emerged as the most significant determinant of medical insurance cost, followed by BMI and age, according to the analysis.<br>
+- Employed regression models to predict medical insurance costs and uncover influential factors, selecting Linear Regression, Decision Tree, and Random Forest models due to their versatility in handling various data types.
+- The Random Forest model outperformed others, demonstrating the lowest Mean Squared Error (MSE) and the highest R-squared value. Smoking, BMI, and age emerged as significant predictors of medical insurance costs. <br>
 
 ![Response_Histogram.png](/images/MedCostReg_Plot.png)
 
