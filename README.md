@@ -1,3 +1,5 @@
+<br><br><br>
+
 # Lucino's Data Science Portfolio
 
 <div style="text-align: center;">
@@ -7,7 +9,7 @@
   <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
 </div>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -62,4 +64,4 @@
 <!-- Excel, Dashboard, Coffee -->
 <!-- Tableau, Dashboard, Coursera -->
 <!-- SQL, YouTube -->
-
+<br><br><br>
