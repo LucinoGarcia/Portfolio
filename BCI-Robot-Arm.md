@@ -59,5 +59,5 @@ The CNN model is relatively simple with two convolutional layers, each followed 
 <br><br><br>
 
 
-[GitHub Repository for Brain-Controlled Prosthetic Gesture Classification](https://github.com/LucinoGarcia/Robot-Arm-Classification)
+[GitHub Repository for "Brain-Controlled Prosthetic Gesture Classification"](https://github.com/LucinoGarcia/Robot-Arm-Classification)
 [Back to Portfolio](https://lucinogarcia.github.io/Portfolio/)
