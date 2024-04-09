@@ -1,4 +1,4 @@
-<br><br><br>
+<br><br>
 
 # Lucino's Data Science Portfolio
 
@@ -23,7 +23,7 @@
   <a href="./BCI-Robot-Arm.html">See more of the "Brain-Controlled Prosthetic Gesture Classification" project</a>
 </p>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -37,7 +37,7 @@
   <a href="./MRI-CVision.html">See more of the "Disease Detection with Computer Vision" project</a>
 </p>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -52,7 +52,7 @@
   <a href="./Medical_Insurance_Cost.html">See more of the "Medical Insurance Cost Regression" project</a>
 </p>
 
-<br><br><br>
+<br><br>
 
 
 
@@ -64,4 +64,4 @@
 <!-- Excel, Dashboard, Coffee -->
 <!-- Tableau, Dashboard, Coursera -->
 <!-- SQL, YouTube -->
-<br><br><br>
+<br><br><br><br>
