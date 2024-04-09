@@ -42,6 +42,11 @@
 <br><br><br>
 
 
+
+## Huberman Lab Podcast NLP for Topic Extraction, *In-Progress*
+- Aim to develop a topic modeling system employing Natural Language Processing techniques to cluster transcripts sourced from the Huberman Lab Podcast.
+- The transcripts for each of the episodes were scraped from [HubermanTranscripts.com](https://www.hubermantranscripts.com/) using Python's Selenium package [by this script](/WebScrape.py). Each of the transcripts was reformatted and saved onto individual .txt files.
+
 <!-- Excel, Dashboard, Transportation -->
 <!-- Excel, Dashboard, Coffee -->
 <!-- Tableau, Dashboard, Coursera -->
