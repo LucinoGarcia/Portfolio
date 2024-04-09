@@ -16,13 +16,8 @@
 ![Image](/images/BME_CM.png)
 
 <p align="center">
-  <img src="/images/BME_CM.png" alt="Image" width="200" height="200">
+  <a href="./BCI-Robot-Arm.html">See more of the "Brain-Controlled Prosthetic Gesture Classification" project</a>
 </p>
-
-
-<center>
-  <img src="/images/BME_CM.png" alt="Image" width="200" height="200">
-</center>
 
 [See more of the "Brain-Controlled Prosthetic Gesture Classification" project](./BCI-Robot-Arm.html)
 <br><br><br>
