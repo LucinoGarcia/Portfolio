@@ -9,7 +9,7 @@
 
 
 
-## Brain-Controlled Prosthetic Gesture Classification
+## [Brain-Controlled Prosthetic Gesture Classification](./BCI-Robot-Arm.html)
 - Developed a convolutional neural network (CNN) for classifying EEG signals to control a UR5e robot arm, achieving a high accuracy of 92%.
 - Collected and filtered 1000 EEG samples for four predetermined gestures and a negative classification, initially exploring Decision Trees and other techniques before opting for the CNN due to its effectiveness with spatial data. <br>
 
