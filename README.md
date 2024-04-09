@@ -7,6 +7,20 @@
   <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
 </div>
 
+## See more of the "Brain-Controlled Prosthetic Gesture Classification" project
+
+[See more of the "Brain-Controlled Prosthetic Gesture Classification" project](./BCI-Robot-Arm.html)
+
+<style>
+h1 {
+  color: inherit;
+}
+
+h1 a {
+  color: inherit;
+}
+</style>
+
 
 
 ## [Brain-Controlled Prosthetic Gesture Classification](./BCI-Robot-Arm.html)
