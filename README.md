@@ -7,33 +7,18 @@
   <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
 </div>
 
-## See more of the "Brain-Controlled Prosthetic Gesture Classification" project
-
-[See more of the "Brain-Controlled Prosthetic Gesture Classification" project](./BCI-Robot-Arm.html)
-
-<style>
-h1 {
-  color: inherit;
-}
-
-h1 a {
-  color: inherit;
-}
-</style>
 
 
-
-## [Brain-Controlled Prosthetic Gesture Classification](./BCI-Robot-Arm.html)
+## Brain-Controlled Prosthetic Gesture Classification
 - Developed a convolutional neural network (CNN) for classifying EEG signals to control a UR5e robot arm, achieving a high accuracy of 92%.
 - Collected and filtered 1000 EEG samples for four predetermined gestures and a negative classification, initially exploring Decision Trees and other techniques before opting for the CNN due to its effectiveness with spatial data. <br>
 
-![Image](/images/BME_CM.png)
+[![BME_CM.png](/images/BME_CM.png)](./BCI-Robot-Arm.html)
 
 <p align="center">
   <a href="./BCI-Robot-Arm.html">See more of the "Brain-Controlled Prosthetic Gesture Classification" project</a>
 </p>
 
-[See more of the "Brain-Controlled Prosthetic Gesture Classification" project](./BCI-Robot-Arm.html)
 <br><br><br>
 
 
