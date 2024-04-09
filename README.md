@@ -7,6 +7,8 @@
   <a href="mailto:LGarciaJr@fastmail.com">LGarciaJr@fastmail.com</a>
 </div>
 
+<br><br><br>
+
 
 
 ## Brain-Controlled Prosthetic Gesture Classification
@@ -23,15 +25,18 @@
 
 
 
-
 ## Disease Detection with Computer Vision
 - Developed a 3D U-Net model for tumor classification in DICOM format MRI data, utilizing Soft Dice as the loss function and Dice Coefficient as the metric.
 - Utilized sensitivity and specificity measures for model evaluation, typically achieving over 85% sensitivity and 90% specificity, showcasing the model's potential for cancerous tissue classification and its ability to generalize well with additional datasets. <br>
 
-![image](/images/3_View.png)
+[![3_View.png](/images/3_View.png)](./MRI-CVision.html)
 
-[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.html)
+<p align="center">
+  <a href="./MRI-CVision.html">See more of the "Disease Detection with Computer Vision" project</a>
+</p>
+
 <br><br><br>
+
 
 
 ## Medical Insurance Cost Prediction
@@ -39,9 +44,12 @@
 - Employed regression models to predict medical insurance costs and uncover influential factors, selecting Linear Regression, Decision Tree, and Random Forest models due to their versatility in handling various data types.
 - The Random Forest model outperformed others, demonstrating the lowest Mean Squared Error (MSE) and the highest R-squared value. Smoking, BMI, and age emerged as significant predictors of medical insurance costs. <br>
 
-![Response_Histogram.png](/images/MedCostReg_Plot.png)
+[![MedCostReg_Plot.png](/images/MedCostReg_Plot.png)](./Medical_Insurance_Cost.html)
 
-[See more of the "Medical Insurance Cost Regression" project](./Medical_Insurance_Cost.html)
+<p align="center">
+  <a href="./Medical_Insurance_Cost.html">See more of the "Medical Insurance Cost Regression" project</a>
+</p>
+
 <br><br><br>
 
 
